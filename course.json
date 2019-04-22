@@ -1,0 +1,60 @@
+{
+  "name": "Student Wiki",
+  "description": "Student relevant domain knowledge about life at Hack Reactor.",
+
+  "phases": {
+
+    "Orientations": [
+      "reading/Orientations.md"
+    ],
+    "San Francisco-Specific Content": [
+      "reading/San-Francisco-Campus.md"
+    ],    
+    "New York-Specific Content": [
+      "reading/New-York-Campus.md"
+    ],
+    "Austin-Specific Content": [
+      "reading/Austin-Campus.md"
+    ],
+    "Los Angeles-Specific Content": [
+      "reading/Los-Angeles-Campus.md"
+    ],
+    "Remote-Specific Content": [
+      "reading/Remote-Campus.md"
+    ],
+    "Remote-PartTime-Specific Content": [
+      "reading/Remote-PartTime-Campus.md"
+    ],
+
+    "Technical Knowledgebase": [
+      "reading/Style-Guide.md",
+      "reading/Git-Workflows.md"
+    ],
+
+    "Guidance": [
+      "reading/One-Line-Takeaways.md",
+      "reading/Blogging.md",
+      "reading/Pair-Programming.md",
+      "reading/Projects-effective-project-teams.md",
+      "reading/Projects-How-to-code-review.md",
+      "reading/Projects-good-practices-from-reddit-insight.md",
+      "reading/Projects-maximizing-project-exposure.md",
+      "reading/Projects-design-101.md",
+      "reading/Job-Search-FAQ.md"
+    ],
+
+    "Reference Resources": [
+      "reading/Pairing-for-the-Review-Sprint.md",
+      "reading/How-to-Record-Your-Screen.md",
+      "reading/SEIR-Software-Engineer-Immersive-Resident-Program.md",
+      "reading/Student-FAQ.md",
+      "reading/Technical-Assessment-FAQ.md",
+      "reading/Group-Project-Communication-and-Workflow-Resources.md",
+      "reading/Projects-Making-your-project-accessible.md",
+      "reading/Projects-recommended-tools.md",
+      "reading/Playing-the-Role-of-Interviewer.md"
+    ]
+
+  }
+}
+
